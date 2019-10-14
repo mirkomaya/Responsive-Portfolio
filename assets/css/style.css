@@ -235,6 +235,12 @@ input[type=submit] {
     margin-bottom: 150px;
     padding-top: 0px;
   }
+
+  .work img {
+    /* float: left; */
+}
+
+
 }
 
 @media screen and (max-width: 768px) {
