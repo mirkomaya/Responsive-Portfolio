@@ -250,6 +250,10 @@ input[type=submit] {
     padding-top: 0px;
   }
 
+  .contact-section {
+    margin-bottom: 300px;
+  }
+
   /* #main-port {
     width: 75%;
   } */
@@ -286,6 +290,14 @@ input[type=submit] {
 
   .port-section {
     width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 400px;
+  }
+
+  .contact-section {
+    width: auto;
+    float: none;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 400px;
@@ -338,6 +350,10 @@ input[type=submit] {
     margin-bottom: 200px;
   }
 
+  .contact-section {
+    margin-bottom: 400px;
+  }
+  
   h1 {
     margin-top: 30px;
   }
